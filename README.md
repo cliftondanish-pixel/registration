@@ -1,4 +1,4 @@
-<img width="1918" height="971" alt="Screenshot 2026-02-26 202724" src="https://github.com/user-attachments/assets/916296e5-c94e-48cb-a2ac-2b809952bd2b" />Registration Form – React.js
+Registration Form – React.js
 
 A clean and professional Registration Form built using React.js.
 This project demonstrates how to manage multiple form inputs efficiently using the useState hook and implement controlled components in React.
